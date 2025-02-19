@@ -16,14 +16,13 @@ Available commands
 ```
 
 ## Dependencies
-proot, skopeo
+proot, skopeo, jq
 
 ## Installation 
 
 ```
 sudo apt update
-sudo apt install proot skopeo
-
+sudo apt install proot skopeo jq
 ```
 
 ## Example usage
