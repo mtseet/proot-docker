@@ -65,3 +65,7 @@ sudo apt install proot skopeo
 ## Special notes
 Works on termux but you will have to run skopeo using proot. You have to some how download and extract the skopeo docker image. There is no skopeo binary available for termux
 
+# Support
+You can by me a coffee if you like this software
+
+<a href="https://www.buymeacoffee.com/mtseet" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
